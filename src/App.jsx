@@ -1,7 +1,5 @@
 import TodoList from "./Todo-List";
 
-function App() {
+export default function App() {
   return <TodoList />;
 }
-
-export default App;
